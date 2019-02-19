@@ -1,5 +1,5 @@
-const Room = (area) {
-  this.area = area
+const Room = function (area) {
+  this.area = area;
 };
 
 
